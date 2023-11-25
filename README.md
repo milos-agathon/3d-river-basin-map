@@ -5,4 +5,4 @@ We'll use HydroSHEDS data, which is a high-resolution global dataset of hydrogra
 
 By the end of this tutorial, you will have a 3D map of river basins in Poland that looks like this:
 
-
+![alt text](https://github.com/milos-agathon/3d-river-basin-map/blob/main/poland-3d-river-basins.png?raw=true)
